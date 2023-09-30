@@ -1,0 +1,2 @@
+perfhud set-mode 1
+exit

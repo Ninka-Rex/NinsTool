@@ -1,0 +1,78 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\Ninka_\\source\\repos\\TrayBuddy\\TrayBuddy\\TrayBuddy.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\Ninka_\\source\\repos\\TrayBuddy\\TrayBuddy\\TrayBuddy.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Ninka_\\source\\repos\\TrayBuddy\\TrayBuddy\\TrayBuddy.csproj",
+        "projectName": "Nin's Tool",
+        "projectPath": "C:\\Users\\Ninka_\\source\\repos\\TrayBuddy\\TrayBuddy\\TrayBuddy.csproj",
+        "packagesPath": "C:\\Users\\Ninka_\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Ninka_\\source\\repos\\TrayBuddy\\TrayBuddy\\obj\\",
+        "projectStyle": "PackageReference",
+        "skipContentFileWrite": true,
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Ninka_\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net472"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net472": {
+            "projectReferences": {}
+          }
+        }
+      },
+      "frameworks": {
+        "net472": {
+          "dependencies": {
+            "Newtonsoft.Json": {
+              "target": "Package",
+              "version": "[13.0.3, )"
+            },
+            "System.Runtime.WindowsRuntime": {
+              "target": "Package",
+              "version": "[4.6.0, )"
+            },
+            "System.ValueTuple": {
+              "target": "Package",
+              "version": "[4.5.0, )"
+            },
+            "TaskScheduler": {
+              "target": "Package",
+              "version": "[2.10.1, )"
+            }
+          },
+          "imports": [
+            "uap10.0.18362"
+          ],
+          "assetTargetFallback": true,
+          "warn": true
+        }
+      },
+      "runtimes": {
+        "win": {
+          "#import": []
+        },
+        "win-x64": {
+          "#import": []
+        },
+        "win-x86": {
+          "#import": []
+        }
+      }
+    }
+  }
+}

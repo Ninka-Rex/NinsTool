@@ -1,0 +1,2 @@
+server:asw.Auto
+exit

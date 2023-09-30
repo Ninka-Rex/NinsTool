@@ -1,0 +1,29 @@
+C:\Users\Ninka_\source\repos\TrayBuddy\TrayBuddy\bin\Debug\Nin's Tool.exe.config
+C:\Users\Ninka_\source\repos\TrayBuddy\TrayBuddy\bin\Debug\Nin's Tool.exe
+C:\Users\Ninka_\source\repos\TrayBuddy\TrayBuddy\bin\Debug\Nin's Tool.pdb
+C:\Users\Ninka_\source\repos\TrayBuddy\TrayBuddy\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Ninka_\source\repos\TrayBuddy\TrayBuddy\bin\Debug\System.ValueTuple.dll
+C:\Users\Ninka_\source\repos\TrayBuddy\TrayBuddy\bin\Debug\Microsoft.Win32.TaskScheduler.dll
+C:\Users\Ninka_\source\repos\TrayBuddy\TrayBuddy\bin\Debug\de\Microsoft.Win32.TaskScheduler.resources.dll
+C:\Users\Ninka_\source\repos\TrayBuddy\TrayBuddy\bin\Debug\es\Microsoft.Win32.TaskScheduler.resources.dll
+C:\Users\Ninka_\source\repos\TrayBuddy\TrayBuddy\bin\Debug\fr\Microsoft.Win32.TaskScheduler.resources.dll
+C:\Users\Ninka_\source\repos\TrayBuddy\TrayBuddy\bin\Debug\it\Microsoft.Win32.TaskScheduler.resources.dll
+C:\Users\Ninka_\source\repos\TrayBuddy\TrayBuddy\bin\Debug\pl\Microsoft.Win32.TaskScheduler.resources.dll
+C:\Users\Ninka_\source\repos\TrayBuddy\TrayBuddy\bin\Debug\ru\Microsoft.Win32.TaskScheduler.resources.dll
+C:\Users\Ninka_\source\repos\TrayBuddy\TrayBuddy\bin\Debug\zh-CN\Microsoft.Win32.TaskScheduler.resources.dll
+C:\Users\Ninka_\source\repos\TrayBuddy\TrayBuddy\bin\Debug\zh-Hant\Microsoft.Win32.TaskScheduler.resources.dll
+C:\Users\Ninka_\source\repos\TrayBuddy\TrayBuddy\obj\Debug\TrayBuddy.csproj.AssemblyReference.cache
+C:\Users\Ninka_\source\repos\TrayBuddy\TrayBuddy\obj\Debug\TrayBuddy.csproj.SuggestedBindingRedirects.cache
+C:\Users\Ninka_\source\repos\TrayBuddy\TrayBuddy\obj\Debug\Interop.IWshRuntimeLibrary.dll
+C:\Users\Ninka_\source\repos\TrayBuddy\TrayBuddy\obj\Debug\Interop.Shell32.dll
+C:\Users\Ninka_\source\repos\TrayBuddy\TrayBuddy\obj\Debug\TrayBuddy.csproj.ResolveComReference.cache
+C:\Users\Ninka_\source\repos\TrayBuddy\TrayBuddy\obj\Debug\NinsTool.AutoLaunchApps.resources
+C:\Users\Ninka_\source\repos\TrayBuddy\TrayBuddy\obj\Debug\TrayBuddy.Form1.resources
+C:\Users\Ninka_\source\repos\TrayBuddy\TrayBuddy\obj\Debug\NinsTool.KeyEnterForm.resources
+C:\Users\Ninka_\source\repos\TrayBuddy\TrayBuddy\obj\Debug\NinsTool.ModsForm.resources
+C:\Users\Ninka_\source\repos\TrayBuddy\TrayBuddy\obj\Debug\NinsTool.Properties.Resources.resources
+C:\Users\Ninka_\source\repos\TrayBuddy\TrayBuddy\obj\Debug\TrayBuddy.csproj.GenerateResource.cache
+C:\Users\Ninka_\source\repos\TrayBuddy\TrayBuddy\obj\Debug\TrayBuddy.csproj.CoreCompileInputs.cache
+C:\Users\Ninka_\source\repos\TrayBuddy\TrayBuddy\obj\Debug\TrayBuddy.csproj.CopyComplete
+C:\Users\Ninka_\source\repos\TrayBuddy\TrayBuddy\obj\Debug\Nin's Tool.exe
+C:\Users\Ninka_\source\repos\TrayBuddy\TrayBuddy\obj\Debug\Nin's Tool.pdb
