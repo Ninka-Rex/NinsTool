@@ -13,7 +13,7 @@ This code is awful. It is the result of countless hours of trial and error, hack
 
 But it works. Somehow, it works. It does what it is supposed to do, most of the time. It has survived the tests of time and users, and it has proven its worth in the real world. It is not pretty, but it is functional. It is not perfect, but it is good enough. It is not a masterpiece, but it is a product. 
 
-I am only publishing the source code due to popular domand, and the fact that virtual desktop has made this product obsolete by introducting face tracking support.
+I am only publishing the source code due to popular demand, and due to the fact that virtual desktop made NT obsolete by introducting face tracking support.
 
 You have been warned.
 
