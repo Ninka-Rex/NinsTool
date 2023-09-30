@@ -42,7 +42,7 @@ Features:
 - Rexouium-coded 🐾
 - Connects over WiFi or Wire
 
-## Airlink Users 😳
+## Airlink Users ☝️🤓
 Nin's Tool uses android debug bridge (ADB) to control features on quest, however establishing this connection wirelessly can be tricky, but it's not necessary to use Nin's Tool- it's just that ASW, Brightness, and Guardian settings will be disabled. To make sure Nin's Tool can properly connect to your headset, follow these steps:
   - make sure the Oculus desktop app recognizes your quest wirelessly.
   - Enable USB connection dialogue in quest settings > system > developer
