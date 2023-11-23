@@ -9,11 +9,9 @@ You can try it for free or buy Nin's Tool [here!](https://ninka.gumroad.com/l/Ni
 
 # ⚠️⚠️⚠️ Code warning!!! ⚠️⚠️⚠️
 
-This code is awful. It is the result of countless hours of trial and error, hacking and patching, copying and pasting, and praying and hoping. It is not elegant, not efficient, not readable, not maintainable, not scalable, not portable, not reusable, not testable, not debuggable, not anything-able. It is a mess of spaghetti code that barely holds together by sheer luck and force of will. It is a miracle that it works at all.
+This code is awful. It is a mess of spaghetti code that barely holds together by sheer luck and force of will. It is a miracle that it works at all.
 
-But it works. Somehow, it works. It does what it is supposed to do, most of the time. It has survived the tests of time and users, and it has proven its worth in the real world. It is not pretty, but it is functional. It is not perfect, but it is good enough. It is not a masterpiece, but it is a product. 
-
-I am only publishing the source code due to popular demand, and due to the fact that virtual desktop made NT obsolete by introducting face tracking support.
+But it works. Somehow. I am only publishing the source code due to popular demand, and due to the fact that virtual desktop made NT obsolete by introducting face tracking support.
 
 You have been warned.
 
